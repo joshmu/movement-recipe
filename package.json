@@ -13,5 +13,9 @@
     "automated choreography"
   ],
   "author": "Josh Mu",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "shortid": "^2.2.15"
+  }
 }
